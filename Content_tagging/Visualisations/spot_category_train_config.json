@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Compressed train data",
+      "tensorShape": [
+        7908,
+        173
+      ],
+      "tensorPath": "https://github.com/adarsa/hostVisualisation/blob/master/Content_tagging/Visualisations/spot_category_df_train_reduced.tsv",
+      "metadataPath": "https://github.com/adarsa/hostVisualisation/blob/master/Content_tagging/Visualisations/spot_category_df_train_reduced_metadata.tsv"
+    }
+  ]
+}
