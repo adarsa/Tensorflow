@@ -1,3 +1,3 @@
-# hostVisualisation
+# Learning deep
 
-This repository contains metadata required for public sharing different visualisations.
+This repository contains deep learning studies I conduct using tensorflow and Keras.
